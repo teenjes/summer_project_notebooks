@@ -1,0 +1,4 @@
+accnos=/media/MassStorage/tmp/TE/summer_project/analysis/mothur_fasta/FAH15473/pass/barcode02/diffs/small9.bad.accnos
+fasta=/media/MassStorage/tmp/TE/summer_project/analysis/mothur_fasta/FAH15473/pass/barcode02/diffs/small9.pcr.fasta
+oligos=/media/MassStorage/tmp/TE/summer_project/analysis/mothur_fasta/FAH15473/pass/barcode02/primer_test.oligos
+processors=12

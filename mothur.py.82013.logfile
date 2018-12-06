@@ -1,0 +1,103 @@
+
+
+************************************************************
+
+
+Linux version
+
+Using ReadLine,Boost,HDF5
+mothur v.1.41.0
+Last updated: 12/06/2018
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://www.mothur.org/forum
+
+Type 'quit()' to exit program
+
+Script Mode
+
+
+mothur > set.logfile(name=mothur.py.82013.logfile, append=T)
+
+mothur > help()
+For more information about a specific command type 'commandName(help)' i.e. 'cluster(help)'
+
+For further assistance please refer to the Mothur manual on our wiki at http://www.mothur.org/wiki, or contact Pat Schloss at mothur.bugs@gmail.com.
+
+mothur > get.current()
+
+Current RAM usage: 0.643829 Gigabytes. Total Ram: 31.3372 Gigabytes.
+
+Current files saved by mothur:
+processors=12
+
+Current default directory saved by mothur: /home/tavish/anaconda3/bin/
+
+Current working directory: /media/MassStorage/tmp/TE/summer_project/scripts/notebooks/
+
+Output File Names: 
+current_files.summary
+
+
+mothur > quit()
+
+
+************************************************************
+
+
+Linux version
+
+Using ReadLine,Boost,HDF5
+mothur v.1.41.0
+Last updated: 12/06/2018
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://www.mothur.org/forum
+
+Type 'quit()' to exit program
+
+Script Mode
+
+
+mothur > set.logfile(name=mothur.py.82013.logfile, append=T)
+
+mothur > set.dir(tempdefault=/home/tavish/anaconda3/bin/)
+Mothur's directories:
+tempDefault=/home/tavish/anaconda3/bin/
+
+mothur > set.current(processors=12)
+
+Using 12 processors.
+
+Current files saved by mothur:
+processors=12
+
+Output File Names: 
+current_files.summary
+
