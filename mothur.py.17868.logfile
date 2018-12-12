@@ -1,0 +1,60 @@
+
+
+************************************************************
+
+
+Linux version
+
+Using ReadLine,Boost,HDF5
+mothur v.1.41.0
+Last updated: 12/12/2018
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://www.mothur.org/forum
+
+Type 'quit()' to exit program
+
+Script Mode
+
+
+mothur > set.logfile(name=mothur.py.17868.logfile, append=T)
+
+mothur > pcr.seqs(fasta=../../analysis/databases/Zymoseptoria_tritici.MG2.dna.chromosome.7.fa,oligos=/media/MassStorage/tmp/TE/summer_project/analysis/descriptors/primers.fasta,pdiffs=0,rdiffs=0)
+
+Using 12 processors.
+[WARNING]: >FORWARD_PRIMER is not recognized as a valid type. Choices are forward, reverse, and barcode. Ignoring <TNKNOWN.
+[WARNING]: DESCRIPTION> is not recognized as a valid type. Choices are forward, reverse, and barcode. Ignoring GCAAGTCTGGTGCCAGCAGCC.
+[WARNING]: >REVERSE_PRIMER is not recognized as a valid type. Choices are forward, reverse, and barcode. Ignoring <TNKNOWN.
+[WARNING]: DESCRIPTION> is not recognized as a valid type. Choices are forward, reverse, and barcode. Ignoring CGCCAGTTCTGCTTACC.
+[ERROR]: invalid oligos file, quitting.
+
+
+************************************************************
+************************************************************
+************************************************************
+Detected 1 [ERROR] messages, please review.
+************************************************************
+************************************************************
+************************************************************
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Detected 4 [WARNING] messages, please review.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
